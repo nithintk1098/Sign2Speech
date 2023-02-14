@@ -1,0 +1,7 @@
+keras
+tensorflow
+gTTS
+playsound
+numpy
+scikit-learn
+matplotlib
