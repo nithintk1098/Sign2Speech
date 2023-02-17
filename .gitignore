@@ -1,5 +1,7 @@
 Analysis
 base
-DATASET
 data_img.npy
 target.npy
+.gitignore
+.ipynb_checkpoints
+DATASET
